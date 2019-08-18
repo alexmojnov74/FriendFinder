@@ -1,0 +1,112 @@
+h1 {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 3em;
+	color: #fff;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	text-shadow: 5px 5px 5px black;
+}
+h2 {
+	font-family: 'Oxygen', sans-serif;
+	font-size: 2.5em;
+	color: #fff;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 20px;
+	text-shadow: 5px 5px 5px black;
+}
+
+p {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 1.5em;
+	text-align: center;
+	max-width: 60%;
+	line-height: 1.75;
+	margin: auto;
+	color: #fff;
+}
+
+footer {
+	text-align: right;
+	background: #fff;
+	padding: 30px;
+	-webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+}
+label {
+	margin-left: 20px;
+	padding-bottom: 10px;
+	color: #fff;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 16px;
+}
+
+.btn {
+	margin: 30px;
+	width: 300px;
+	box-shadow: 5px 5px 15px black;
+	border: 1px solid white;
+}
+
+form {
+	margin-top: 40px;
+}
+
+a {
+	font-family: 'Oxygen', sans-serif;
+	color: #1f10f0;
+	font-size: 15px;
+}
+
+#bestFriendModal {
+	text-align: center;
+}
+
+#bestFriendPhoto {
+	max-width: 100%;
+	height: auto;
+}
+
+span {
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #777;
+	font-size: 20px;
+
+}
+
+.content {
+	margin-top: 100px;
+	background: rgb(231, 54, 8);
+	background: linear-gradient(180deg, 
+	rgba(231, 54, 8, 1) 0%, rgba(238, 45, 9, 1) 35%, 
+	rgba(0, 212, 255, 1) 86%);
+	min-height: 60vh;
+	flex: 2;
+}
+.content1 {
+	margin-top: 20px;
+	background: rgb(231, 54, 8);
+	min-height: 60vh;
+	width: 600px;
+	margin-bottom: 10px;
+	border-radius: 15px 0px 15px 0px;
+	-webkit-border-radius: 15px 0px 15px 0px;
+	-moz-border-radius: 15px 0px 15px 0px;
+	-ms-border-radius: 15px 0px 15px 0px;
+	-o-border-radius: 15px 0px 15px 0px;
+}
+.img-fluid {
+	margin-top: 10px;
+	border-radius: 15px 0px 15px 0px;
+	-webkit-border-radius: 15px 0px 15px 0px;
+	-moz-border-radius: 15px 0px 15px 0px;
+	-ms-border-radius: 15px 0px 15px 0px;
+	-o-border-radius: 15px 0px 15px 0px;
+	box-shadow: 10px 10px 25px black;
+}
+.text-center {
+	margin-top: 50px;
+}
